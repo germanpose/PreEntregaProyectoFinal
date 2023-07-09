@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    height: auto;
+}
+
+main {
+    padding: 5vh;
+    height: 80vh;
+}
+
+footer {
+    height: auto;
+}
+
+#fotoreceta1 {
+    height: 20vh;
+    width: 23vh;
+}
+
+#fotoreceta2 {
+    height: 20vh;
+    width: 23vh;
+}
+
+#fotoreceta3 {
+    height: 20vh;
+    width: 23vh;
+}
+
+#fotoreceta4 {
+    height: 20vh;
+    width: 23vh;
+}
+
+
+#divContenedor {
+    margin: 1vh;
+    height: 80%;
+}
+
+#divDestacada1 {
+    padding: 1vh;
+    margin: 1vh;
+    height: 80%;
+}
+
+#divDestacada2 {
+    padding: 1vh;
+    margin: 1vh;
+    height: 80%;
+}
+
+#divDestacada3 {
+    padding: 1vh;
+    margin: 1vh;
+    height: 80%;
+}
+
+#divDestacada4 {
+    padding: 1vh;
+    margin: 1vh;
+    height: 80%;
+}
