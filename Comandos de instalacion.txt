@@ -1,0 +1,3 @@
+para crear archivo package.json: "npm init" luego dar enter hasta que pida confirmacion y ya queda listo o "npm init -y" para que acepte todo automaticamente.
+
+para instalar la dependencia de Node de SASS: "npm install -D node-sass nodemon" presionamos enter y comienza la instalacion, puede demorar ya que es algo mas pesado.

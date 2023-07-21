@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    height: auto;
+}
+
+main {
+    height: 85vh
+}
+
+footer {
+    height: auto;
+}
+
+#contenedor_section1 {
+    margin: 5px;
+}
+
+li {
+    padding-left: 10vh;
+    padding-right: 10vh;
+    border: 1px;
+    border-color: black;
+    border-style:groove;
+    list-style: none;
+}
+
+#nombre_receta {
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+#text_area_descripcion_receta {
+    height: 100%;
+}
+
+#img_receta {
+    height: 230px;
+    width: 300px;
+}
+
